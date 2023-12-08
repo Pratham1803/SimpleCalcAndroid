@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="txtNum1Text">Enter Number</string>
+    <string name="txtRes">Result Is Here</string>
+
+    <string name="btnAdd">ADD</string>
+    <string name="btnSub">SUB</string>
+    <string name="btnMul">MUL</string>
+    <string name="btnDiv">DIV</string>
+
+</resources>
